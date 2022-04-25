@@ -1,0 +1,5 @@
+Teste de Mesa
+
+QNTMINIMA     QNTMAXIMA    ESTOQUEMEDIO
+   20            100            60
+   15            200           107,5

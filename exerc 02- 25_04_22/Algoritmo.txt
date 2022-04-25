@@ -1,0 +1,6 @@
+Algoritmo_02
+  Digite a quantidade minima de peças
+  Digite a quantidade maxima de peças
+  Faça (qntminima+qntmaxima) / 2
+  Mostre estoquemedio
+Fim algoritmo
