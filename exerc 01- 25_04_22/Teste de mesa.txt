@@ -1,0 +1,5 @@
+Teste de Mesa
+
+VALOR      QUANTIDADE    VALOR TOTAL
+  2            10             20
+ 2,5           5             12,5
