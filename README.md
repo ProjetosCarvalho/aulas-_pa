@@ -3,7 +3,8 @@ Repositório para as aulas de PA (Progamação e algoritmos
 
 1° e 2° bimestre
 
-Links Scrathc:
+Links:
+
 https://scratch.mit.edu/projects/671057022 (Gato Andando)
 https://scratch.mit.edu/projects/671025112 (Exemplo 1°F)
 https://scratch.mit.edu/projects/671036710 (SomaNumeros)
