@@ -1,5 +1,6 @@
 # aulas-_pa
-Repositório para as aulas de PA (Progamação e algoritmos)
+Repositório para as aulas de PA (Progamação e algoritmos
+
 1° e 2° bimestre
 
 Links Scrathc:
